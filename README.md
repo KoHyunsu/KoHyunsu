@@ -60,8 +60,5 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoHyunsu&line_height=40" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KoHyunsu&line_height=40" />
-  </a>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2696E0,100:0000ff&height=100&section=footer&fontSize=40&animation=twinkling&rotate=0" />
 </p>
